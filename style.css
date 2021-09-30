@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: lightskyblue;
+    text-decoration: lightskyblue;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.heading{
+    width: 80%;
+    font-size: large;
+}
+
+.name-of-the-objects{
+    color: rgb(255, 115, 0);
+}
+
+.hr1{
+   border-color: rgb(255, 115, 0);
+}
+
+#camera{
+    width: 350;
+    height: 300;
+}
+
+#result{
+    width: 350;
+    height: 200;
+}
+
+#result_name{
+    color: green;
+}
+
+#result_accuracy{
+    color: green;
+}
+
